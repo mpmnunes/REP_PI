@@ -3,3 +3,8 @@ C:\Users\Pedro Jorge\Desktop\ISEL 2012 SV\PI\Trabalho1\PI ISEL 2012SV\Server\obj
 C:\Users\Pedro Jorge\Desktop\ISEL 2012 SV\PI\Trabalho1\PI ISEL 2012SV\Server\obj\x86\Debug\Server.pdb
 C:\Users\Pedro Jorge\Desktop\ISEL 2012 SV\PI\Trabalho1\PI ISEL 2012SV\Server\bin\Server.exe
 C:\Users\Pedro Jorge\Desktop\ISEL 2012 SV\PI\Trabalho1\PI ISEL 2012SV\Server\bin\Server.pdb
+C:\Users\Mónica\Documents\ISEL\5º Semestre\PI\2012SV\REP_PI\REP_PI\Server\obj\x86\Debug\Server.exe
+C:\Users\Mónica\Documents\ISEL\5º Semestre\PI\2012SV\REP_PI\REP_PI\Server\obj\x86\Debug\Server.pdb
+C:\Users\Mónica\Documents\ISEL\5º Semestre\PI\2012SV\REP_PI\REP_PI\Server\bin\Server.exe
+C:\Users\Mónica\Documents\ISEL\5º Semestre\PI\2012SV\REP_PI\REP_PI\Server\bin\Server.pdb
+C:\Users\Mónica\Documents\ISEL\5º Semestre\PI\2012SV\REP_PI\REP_PI\Server\obj\x86\Debug\ResolveAssemblyReference.cache
